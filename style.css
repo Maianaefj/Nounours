@@ -1,0 +1,157 @@
+h1 {
+	color: #e85d04;
+	font-size: 50px ;
+	font-family: 'Anton', sans-serif ;
+	text-align: center;
+}
+
+h2 { 
+	color: #ab3428;
+	font-size: 30px ;
+	font-family: 'Bebas Neue', cursive ;
+	text-align: center;
+}
+
+h3 { 
+	color: #246a73 ; 
+	font-size:20px ;
+	font-family:'Anton', sans-serif ;
+	text-align: center;
+}
+
+p { 
+	color: #04395e ; 
+	font-size: 20px ;
+	font-family: 'Permanent Marker', cursive ;
+	text-align: center;
+}
+
+body { 
+background-color: #fcefb4 ;
+}
+
+div { 
+	width: 800px;
+	background-color: #f2a65a ; 
+	border-radius: 20px;
+	text-align: center;
+	margin: 0 auto  ; 
+	box-shadow: 10px 10px 30px #f2cc8f ;
+}
+
+#logo { 
+	border-radius:15% ; 
+	width: 150px;
+	height: 200px;
+	object-fit: cover ;
+	object-position: top ;
+} 
+
+#journaliste { 
+ 	border-radius: 15% ; 
+ 	width: 150px ; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: top ;
+ }
+
+#betises { 
+	border-radius: 15% ; 
+ 	width: 150px ; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: top ; 
+ }
+
+ #fifa { 
+ 	border-radius: 15% ; 
+ 	width: 150px; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: top ; 
+ }
+
+ #frerot {
+ 	border-radius: 15% ; 
+ 	width: 150px; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: top ;
+}
+
+#maman { 
+	border-radius: 15% ; 
+ 	width: 150px ; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: top ;
+}
+
+#soeurs {
+	border-radius: 15% ; 
+ 	width: 150px ; 
+  	height:200px ;
+  	object-fit: cover ;
+  	object-position: bottom left ;
+}
+
+.journal_activités { 
+	background-color: #f4a261 ; 
+}
+
+.family_first {
+	background-color: #fec89a ;
+}
+
+.instagram {
+	background-color: #ffd7ba ;
+	color: #04395e ;
+}
+
+.fa-instagram {
+	font-size: 45px; 
+	color:#ab3428 ;
+}
+
+.fa-heart { 
+	font-size: 45px ; 
+	color: #ab3428 ; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
